@@ -10,7 +10,8 @@
   "repository": "yeoman/yo",
   "engines": {
     "node": ">=0.10.0",
-    "npm": ">=1.4.3"
+    "npm": ">=1.4.3",
+    "cnpm": ">=0.5.2"
   },
   "scripts": {
     "test": "grunt",
